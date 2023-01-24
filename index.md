@@ -52,7 +52,7 @@
 
 |                          |     |                            |
 | ------------------------ | --- | -------------------------- |
-| Senior Software Engineer |     | April 2021 - December 2021 |
+| Senior Software Engineer |     | November 2019 - October 2020 |
 
 -   Mobile and desktop development using C#, React Native, React, ES6, Azure, Objective-C, Java,
     Typescript, Mobx, Electron, NodeJS, and Sass
@@ -72,7 +72,7 @@
 
 |                   |     |                            |
 | ----------------- | --- | -------------------------- |
-| Software Engineer |     | April 2021 - December 2021 |
+| Software Engineer |     | April 2017 - November 2019 |
 
 -   Web and application development using React, Mobx, Redux, Typescript, ES6, CSS, PHP, Sass, Oracle
     SQL, DynamoDB, Lambda, SNS, AWS, Apache, Linux, Electron, NodeJS, Docker, Webpack, and GitHub
@@ -93,7 +93,7 @@
 
 |                   |     |                            |
 | ----------------- | --- | -------------------------- |
-| Software Engineer |     | April 2021 - December 2021 |
+| Software Engineer |     | September 2016 - April 2017 |
 
 -   Full-stack development using C#, MVC, Bootstrap, Angular 1, CSS, and MS/SQL
 -   Created and released a website for USADA and CCES
@@ -106,7 +106,7 @@
 
 |                          |     |                            |
 | ------------------------ | --- | -------------------------- |
-| Junior Software Engineer |     | April 2021 - December 2021 |
+| Junior Software Engineer |     | July 2013 - September 2016 |
 
 -   Full-stack development in C# using MVC, SQL server, IIS, Windows Server, MySQL, Angular 1, Bootstrap,
     and HTML5 for front end

@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header,
+footer,
+th {
+    display: none;
+}
+
+section {
+    width: 500px;
+    float: right;
+    width: 100%;
+}
+
+h2 {
+    border-bottom: 3px solid #278dc1;
+}
+
+#daniel-zrust, #daniel-zrust + table {
+    background-color: #3b3838;
+    color: #cbcddb;
+}
+
+th, td {
+    border-bottom: none;
+}

@@ -13,6 +13,22 @@
 
 ## Experience
 
+### Ent Credit Union
+
+|                          |     |                         |
+| ------------------------ | --- | ----------------------- |
+| Senior Software Engineer |     | December 2021 - Current |
+
+-   Full stack development using AWS, Kubernetes, React, Typescript, JavaScript, CSS, Bootstrap, ES6, HTML, Java, and Angular
+-   Architected multiple micro frontend web apps
+-   Lead SCRUM process across multiple platform verticals
+-   Documented company standards, processes, and knowledgebase
+-   Managed relations with two different vendors daily
+-   Led web team and developed standards and processes
+-   Acquired software that helped boost the software development life-cycle
+-   Coordinated with project manager and designers to enable continuous output of features
+-   Wrote custom software that enabled teams to work asynchronously and reduced dependencies that held back releases
+
 ### Motion Intelligence
 
 |                          |     |                            |
@@ -110,5 +126,6 @@
     Kubernetes
 
 ## Websites
-- [**Github**: dzrust](https://github.com/dzrust)
-- [**Personal Blog**: amdg.world](https://amdg.world/)
+
+-   [**Github**: dzrust](https://github.com/dzrust)
+-   [**Personal Blog**: amdg.world](https://amdg.world/)

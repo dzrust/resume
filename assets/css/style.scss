@@ -9,6 +9,18 @@ th {
     display: none;
 }
 
+table tr td:last-child {
+    text-align: right;
+}
+
+table tr td:first-child {
+    font-style: italic;
+}
+
+table td {
+    padding: 0;
+}
+
 section {
     width: 500px;
     float: right;
@@ -17,13 +29,41 @@ section {
 
 h2 {
     border-bottom: 3px solid #278dc1;
+    padding-bottom: 0.75rem;
 }
 
-#daniel-zrust, #daniel-zrust + table {
+h3 {
+    margin-bottom: 0.25rem;
+}
+
+#daniel-zrust {
+    padding: 0rem 0.5rem;
+    margin: 0rem;
+}
+
+#daniel-zrust,
+#daniel-zrust + table {
     background-color: #3b3838;
-    color: #cbcddb;
+    color: #fff;
 }
 
-th, td {
+#daniel-zrust + table {
+    margin-bottom: 1.5rem;
+}
+
+#daniel-zrust + table td {
+    padding: 0.5rem 1rem;
+}
+
+#daniel-zrust + table tr td:last-child {
+    padding-right: 0.75;
+}
+
+#daniel-zrust + table tr td:first-child {
+    font-style: normal;
+}
+
+th,
+td {
     border-bottom: none;
 }
